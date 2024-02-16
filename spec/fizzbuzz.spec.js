@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 const answer = require('../src/fizzbuzz.js')
 
 it("FizzBuzzes", () => {
