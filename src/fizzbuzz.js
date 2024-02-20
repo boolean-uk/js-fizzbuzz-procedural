@@ -1,4 +1,4 @@
-let answer = []
+const answer = []
 
 // Write your code below this line
 
