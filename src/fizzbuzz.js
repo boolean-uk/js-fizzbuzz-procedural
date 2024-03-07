@@ -12,6 +12,5 @@ for (let i = 1; i <= 15; i++) {
     answer.push(i)
   }
 }
-console.log(answer)
 // Don't touch the code below this line, we'll cover it later
 module.exports = answer
